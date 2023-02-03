@@ -3,7 +3,7 @@ Designed interactive dashboards using WHO's life expectancy dataset to analysis 
 ### Insights
 developed country has more life expectancy than developing countary.
 
-alcohal is very less corelated to life expectancy it does not affect.
+alcohal is very less corelated to life expectancy it does not affect life expectancy.
 
 most of countary has life expectancy between 65-75 and average life expextancy is about 70 according to 15 years (2000-2015) data.
 
